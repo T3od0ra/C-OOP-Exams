@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.exe
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.deps.json
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.runtimeconfig.json
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.dll
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.pdb
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.dll
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\refint\EDriveRent.dll
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.pdb
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.genruntimeconfig.cache
+C:\Users\DELL\Desktop\OOP C#\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\ref\EDriveRent.dll
